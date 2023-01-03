@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "alura-curso-angular"
+    }
+  },
+  "defaultProject": "alura-curso-angular",
+  "cli": {
+    "analytics": "6b1aed2c-83ce-43f9-a508-f70ee25f7e74"
+  }
 }
