@@ -1,6 +1,17 @@
-# AluraCursoAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
+# AluBank - Angular
+
+Um projeto inicializado em um curso da alura feito com Angular, estou no inicio do curso então o projeto é bem simples.
+
+
+## 🛠 Habilidades
+Javascript, TypeScript, HTML, CSS e Angular.
+
+
+## Stack utilizada
+
+**Front-end:** Angular, SASS
+
 
 ## Development server
 

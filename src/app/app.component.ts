@@ -7,12 +7,7 @@ import { TransferenciaService } from './services/transferencia.service';
   styleUrls: ['./app.component.scss'],
 })
 export class AppComponent {
-  title = 'alura-curso-angular';
+  title = 'Curso alura de Angular';
 
   constructor(private service: TransferenciaService) { }
-
-  transferir($event) {
-    console.log($event);
-    this.service.adicionar($event);
-  }
 }
